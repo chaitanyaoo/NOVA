@@ -42,9 +42,3 @@ Open http://localhost:5000.
   dashboard and on the project page.
 - Only the project owner can add/remove members or delete the project.
 
-## Notes
-
-- `SECRET_KEY` is set in `docker-compose.yml` — change it before deploying
-  anywhere real.
-- There's no email verification or password reset, kept out of scope for
-  this assignment.
